@@ -3,7 +3,7 @@
 ## Projekt zrobiony na potrzeby odcinka na mój kanał YouTube!
 
 ### Link do filmu:
-[![https://www.youtube.com/watch?v=xxx](https://img.youtube.com/vi/xxx/0.jpg)](https://www.youtube.com/watch?v=xxx)
+[![https://www.youtube.com/watch?v=96tbGKKuQ0c](https://img.youtube.com/vi/96tbGKKuQ0c/0.jpg)](https://www.youtube.com/watch?v=96tbGKKuQ0c)
 
 
 ## Instrukcja:
